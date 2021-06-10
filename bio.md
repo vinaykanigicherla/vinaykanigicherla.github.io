@@ -34,6 +34,7 @@ title: Bio
 - Developed multiple-object tracking algorithm to track and assign unique IDs to customers in real-time from raw CCTV camera footage.
 - Leveraged Tiny YOLOv3 Architecture for object detection task; conducted transfer learning in order to optimize human detection accuracy.
 - Implemented object tracking methods based on bounding box velocity and frame-to-frame bounding box IOU.
+
 --- 
 
 # University Coursework
