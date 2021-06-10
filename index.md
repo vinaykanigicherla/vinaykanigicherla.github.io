@@ -6,9 +6,7 @@ layout: page
     Hey, I'm Vinay!
 </h1>
 
-<p align="center">
-  <img width="300" src="https://raw.githubusercontent.com/vinaykanigicherla/vinaykanigicherla.github.io/master/assets/Cropped_VinayK.jpg" alt="VinayK_Picture">
-</p>
+<img width="300" src="https://raw.githubusercontent.com/vinaykanigicherla/vinaykanigicherla.github.io/master/assets/Cropped_VinayK.jpg" alt="VinayK_Picture">
 
 
 I'm an undergraduate at the University of California, Berkeley majoring in Electrical Engineering and Computer Science. 
