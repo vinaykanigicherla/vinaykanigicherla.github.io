@@ -1,7 +1,7 @@
 ---
 title:  "First Project"
 layout: post
-categories: media
+categories: project
 ---
 # Hi!
 
