@@ -3,6 +3,8 @@ layout: page
 title: Bio
 ---
 
+---
+
 # Experience 
 **Undergraduate Researcher** @ CAHLR Lab -- *May 2021 to Present*
 - Working in the Computational Approacg to Human Learning Research (CAHLR) Lab in Berkeley's School of Information under Professor Zachary Pardos
