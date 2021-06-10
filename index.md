@@ -6,6 +6,11 @@ layout: default
     Hey, I'm Vinay!
 </h1>
 
+<p align="center">
+  <img width="300" src="https://raw.githubusercontent.com/vinaykanigicherla/vinaykanigicherla.github.io/master/assets/Cropped_VinayK.jpg" alt="VinayK_Picture">
+</p>
+
+
 I'm an undergraduate at the University of California, Berkeley majoring in Electrical Engineering and Computer Science. 
 I'm interested in solving high-value problems with data-driven technology created at the intersection of machine learning development 
 and software engineering. 
@@ -16,3 +21,4 @@ projects by myself when I'm bored. Read more about what I have done/am doing in 
 
 Besides computer stuff and academic stuff, I also love playing table tennis, eating Chick-fil-A, and watching MMA or American Football (go Niners!). 
 If we share any academic/non-academic interests or you just want to reach out, feel free to do so at [vinaykanigicherla@berkeley.edu](mailto:vinaykanigicherla@berkeley.edu)
+
