@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "bio.md", title: "Bio"}
   - {file: "project.html", title: "Projects"}
   - {file: "blog.html", title: "Blog"}
-  - {url: "https://drive.google.com/file/d/1i2gX4Xo-dS7-WIBDUTQfWjJzce2D1Xz1/view?usp=sharing", title: "Resume"}
+  - {url: "https://drive.google.com/file/d/1luCISQgamVsTHbvnfxy_J4Yx8RHhJdzP/view?usp=sharing", title: "Resume"}
  
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
