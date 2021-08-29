@@ -78,6 +78,6 @@ title: Bio
 <br>
 
 **Breadth**
-- POLSCI 1 - Introduction to American Politics (Fa21)
+- SOCIOL 167 - Virtual Communities and Social Media (Fa21)
 - ECON 1 - Introduction to Economics (Su20)
-- COLWRIT R4A - Reading and Composition Part A (Su20)
+- COLWRIT R4A - Reading and Composition Part A: Texts of the Apocalypse (Su20)
