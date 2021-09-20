@@ -7,11 +7,11 @@ title: Bio
 
 # Experience 
 **Undergraduate Researcher** @ CAHLR Lab -- *May 2021 to Present*
-- Working in the CAHLR Lab under Prof. Zachary Pardos, currently investigating unsupervised embedding generation for college courses using FastText, developing methodologies for course relationship mining in course vector offset spaces, and creating novel deep learning approach for the college course prerequisite prediction task. 
+- Working in the CAHLR Lab under Prof. Zachary Pardos, currently investigating unsupervised embedding generation for college courses using FastText, conducting large-scale KMeans clustering using FAISS on a vector offset space of 29M+ vectors for course relationship mining, and developing novel deep learning approaches for the college course prerequisite prediction task. 
 <br>
 
 **Project Manager** @ Big Data at Berkeley -- *May 2021 to Present*
-- Project Manager in BDAB's Projects Committee.
+- Project Manager in BDAB's Projects Committee. For the Fall 2021 semester, my team's client will be [Karbon](https://karbonhq.com/). 
 - Responsibilities include leading a team of consultants, client acquisition, consultant recruitment, and workshop organization.
 - BDAB's Projects Committee is dedicated to providing business leaders with advanced data analytics and machine learning models to guide critical decisions and accelerate growth.
 <br>
