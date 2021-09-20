@@ -21,7 +21,7 @@ title: Bio
 - Masking Fetal Gender in Ultrasound Images:
   - Developed a cutting-edge real-time object detection system to mask fetal gender in ultrasound videos of pregnant women.
   - Optimized YOLOv5 for ultrasound object detection and implemented structural similarity-based technique to minimize false negatives during video inference.
-  - Co-authored research paper detailing our effort; Pre-print soon to be released on arXiv.
+  - Co-authored research paper detailing our effort; [Pre-print](https://arxiv.org/abs/2109.06790v1) released on arXiv.
 - Fitness Chatbot Assistant:
   - Developed a MVP for a chatbot assistant for athletes that is specialized to answer fitness, diet, and sports related queries.
   - Leveraged RASA Framework to build and finetune chatbot and added integrations with serpAPI Google Search and BlenderBot to handle out-of-scope queries.
