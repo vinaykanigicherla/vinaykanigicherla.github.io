@@ -30,7 +30,7 @@ title: Bio
 
 
 **Machine Learning Intern** @ CAHLR Lab -- *Jan 2021 to May 2021* 
-- Worked under Prof. Zachary Pardos in the CAHLR Lab as an ML Developer on developing the course prerequisite prediction functionality of the AskOski Research Project (https://askoski.berkeley.edu).
+- Worked under Prof. Zachary Pardos in the CAHLR Lab as an ML Developer on developing the course prerequisite prediction functionality of the AskOski Research Project (https://askoski.berkeley.edu) and improved the feature's Recall@10 metric by 5%. 
 - Developed novel multi-input autoencoder based neural network architecture that combines a BERT encoder and Course2Vec vector encoder that is capable of predicting multiple prerequisites for a given course.
 - Utilized 900,000+ row student enrollment history dataset and ~10,000 row course catalog description dataset in training.
 - Iteratively improved solution over the course of the project, experimenting with ensembles of classical ML models, other neural network architectures, and other NLP vector representation techniques like Doc2Vec along the way.
