@@ -26,7 +26,6 @@ title: Bio
 - Responsibilities include overseeing all industry consulting projects and guiding project managers to ensure project success, leading the client acquisition effort, organizing consultant recruitment, and creating/teaching workshops.
 <br>
 
-
 **Project Manager** @ Big Data at Berkeley -- *May 2021 to Dec. 2021*
 - Project Manager in BDAB's Projects Committee. For the Fall 2021 semester, my team's client will be [Karbon](https://karbonhq.com/). 
 - Led a project to develop predictive models to anticipate customer churn/expansion and engineer custom metrics for customer health indication based on user action data. 
@@ -44,7 +43,6 @@ title: Bio
   - Leveraged RASA Framework to build and finetune chatbot and added integrations with serpAPI Google Search and BlenderBot to handle out-of-scope queries.
 - Worked in a fast-paced result-oriented environment, engaging in weekly sprints and presenting to the CEO on a weekly basis.
 <br>
-
 
 **Machine Learning Intern** @ CAHLR Lab -- *Jan 2021 to May 2021* 
 - Worked under Prof. Zachary Pardos in the CAHLR Lab as an ML Developer on developing the course prerequisite prediction functionality of the AskOski Research Project (https://askoski.berkeley.edu) and improved the feature's Recall@10 metric by 5%. 
