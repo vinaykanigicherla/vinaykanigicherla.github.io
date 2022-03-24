@@ -9,15 +9,16 @@ title: Bio
 
 **Incoming Software Engineering Intern** @ PayPal -- *Jan. 2022 to Present*
 - Will be working in the Fraud Detection Team during Summer 2022.
+<br>
 
 **Undergraduate Researcher** @ Berkeley RISE Lab -- *Mar. 2022 to Present*
 - Working on developing novel concurrency control protocols for transactional deletions in large-scale graph databases under PhD student Audrey Cheng. 
+<br>
 
 **Undergraduate Researcher** @ CAHLR Lab -- *May 2021 to Present*
 - Working in the CAHLR Lab under Prof. Zachary Pardos. 
 - Developed a novel convolutional neural network architecture, ideated neural embedding techniques for courses, designed novel evaluation metric for prerequisite prediction performance measurement, and curated custom training dataset to devise a novel deep learning approach to course prerequisite prediction. 
 - Wrote research paper and submitted to EDM 2022. 
-
 <br>
 
 **VP of Consulting** @ Big Data at Berkeley -- *Dec. 2021 to Present*
