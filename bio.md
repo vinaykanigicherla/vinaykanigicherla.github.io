@@ -6,14 +6,30 @@ title: Bio
 ---
 
 # Experience 
+
+**Incoming Software Engineering Intern** @ PayPal -- *Jan. 2022 to Present*
+- Will be working in the Fraud Detection Team during Summer 2022.
+
+**Undergraduate Researcher** @ Berkeley RISE Lab -- *Mar. 2022 to Present*
+- Working on developing novel concurrency control protocols for transactional deletions in large-scale graph databases under PhD student Audrey Cheng. 
+
 **Undergraduate Researcher** @ CAHLR Lab -- *May 2021 to Present*
-- Working in the CAHLR Lab under Prof. Zachary Pardos, currently investigating unsupervised embedding generation for college courses using FastText, conducting large-scale KMeans clustering using FAISS on a vector offset space of 29M+ vectors for course relationship mining, and developing novel deep learning approaches for the college course prerequisite prediction task. 
+- Working in the CAHLR Lab under Prof. Zachary Pardos. 
+- Developed a novel convolutional neural network architecture, ideated neural embedding techniques for courses, designed novel evaluation metric for prerequisite prediction performance measurement, and curated custom training dataset to devise a novel deep learning approach to course prerequisite prediction. 
+- Wrote research paper and submitted to EDM 2022. 
+
 <br>
 
-**Project Manager** @ Big Data at Berkeley -- *May 2021 to Present*
+**VP of Consulting** @ Big Data at Berkeley -- *Dec. 2021 to Present*
+- Leading BDAB's Consulting Division that is dedicated to providing business leaders with advanced data analytics and machine learning models to guide critical decisions and accelerate growth.
+- Responsibilities include overseeing all industry consulting projects and guiding project managers to ensure project success, leading the client acquisition effort, organizing consultant recruitment, and creating/teaching workshops.
+<br>
+
+
+**Project Manager** @ Big Data at Berkeley -- *May 2021 to Dec. 2021*
 - Project Manager in BDAB's Projects Committee. For the Fall 2021 semester, my team's client will be [Karbon](https://karbonhq.com/). 
+- Led a project to develop predictive models to anticipate customer churn/expansion and engineer custom metrics for customer health indication based on user action data. 
 - Responsibilities include leading a team of consultants, client acquisition, consultant recruitment, and workshop organization.
-- BDAB's Projects Committee is dedicated to providing business leaders with advanced data analytics and machine learning models to guide critical decisions and accelerate growth.
 <br>
  
 **Machine Learning Fellow** @ Launchpad.AI -- *May 2021 to Aug. 2021*
@@ -45,7 +61,7 @@ title: Bio
 - Conducted extensive data cleaning, text data preprocessing, feature generation, and text embedding generation.
 <br>
 
-**Computer Vision Intern** @ PointR Data Inc. -- *May 2019 to Aug 2019*
+**Software Engineering Intern** @ PointR Data Inc. -- *May 2019 to Aug 2019*
 - Developed multiple-object tracking algorithm to track and assign unique IDs to customers in real-time from raw CCTV camera footage.
 - Leveraged Tiny YOLOv3 Architecture for object detection task; conducted transfer learning in order to optimize human detection accuracy.
 - Implemented object tracking methods based on bounding box velocity and frame-to-frame bounding box IOU.
@@ -54,10 +70,12 @@ title: Bio
 
 # University Coursework
 **Computer Science**
+- CS 162 - Operating Systems (Su22)
+- CS 170 - Efficienct Algorithms and Intractable Problems (Sp22)
 - CS 188 - Artificial Intelligence (Fa21) 
 - CS 169A - Software Engineering (Fa21)
-- CS 61C - Computer Architecture (Fa21)
-- CS 61B - Data Structures and Algorithms (Sp21)
+- CS 61C - Machine Structures (Fa21)
+- CS 61B - Data Structures (Sp21)
 - CS 61A - Structure and Interpretation of Programs (Fa20)
 - CS 195 - Social and Ethical Implications of Technology (Sp21)
 <br>
@@ -68,16 +86,19 @@ title: Bio
 <br>
 
 **Mathematics**
+- EECS 127 - Convex Optimization (Sp22)
 - CS 70 - Discrete Mathematics and Probability Theory (Su21)
 - MATH 53 - Multivariable Calculus (Fa20)
 <br>
 
-**Physics**
+**Sciences**
 - PHYSICS 7B - Heat and Electromagnetism (Fa21)
 - PHYSICS 7A - Mechanics and Waves (Sp21)
 <br>
 
 **Breadth**
+- HISTORY 137AC - Immigrants and Immigration as US History (Sp22)
+- COLWRIT R4B - Reading and Composition Part B: The Machine and its Discontents (Sp22)
 - SOCIOL 167 - Virtual Communities and Social Media (Fa21)
 - ECON 1 - Introduction to Economics (Su20)
 - COLWRIT R4A - Reading and Composition Part A: Texts of the Apocalypse (Su20)
