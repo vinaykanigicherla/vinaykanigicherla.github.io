@@ -7,29 +7,42 @@ title: Bio
 
 # Experience 
 
-**Incoming Software Engineering Intern** @ PayPal -- *Jan. 2022 to Present*
-- Will be working in the Fraud Detection Team during Summer 2022.
+**Software Engineering Intern** @ Warp -- *Mar. 2023 to Present*
+- Working on the Core Engineering Team.
 <br>
 
-**Undergraduate Researcher** @ Berkeley RISE Lab -- *Mar. 2022 to Present*
-- Working on developing novel concurrency control protocols for transactional deletions in large-scale graph databases under PhD student Audrey Cheng. 
+**Undergraduate Researcher** @ Berkeley RISE Lab -- *Sep. 2022 to Mar. 2023*
+- Developed system to efficiently deploy and shadow-test large ML models on resource constrained edge
+devices under PhD Student Shishir Patil and Prof. Joseph Gonzalez.
+- Added functionality to convert neural network models from Tensorflow, PyTorch, and SKLearn into C code by
+compiling from ONNX intermediate representation.
 <br>
 
-**Undergraduate Researcher** @ CAHLR Lab -- *May 2021 to Present*
-- Working in the CAHLR Lab under Prof. Zachary Pardos. 
-- Developed a novel convolutional neural network architecture, ideated neural embedding techniques for courses, designed novel evaluation metric for prerequisite prediction performance measurement, and curated custom training dataset to devise a novel deep learning approach to course prerequisite prediction. 
-- Wrote research paper and submitted to EDM 2022. 
+**Software Engineering Intern** @ Actively -- *Sep. 2022 to Nov. 2022*
+- Designed and developed metric learning framework that leverages active learning principles (uncertainty
+and diversity sampling) to interactively finetune classification models using human feedback.
+- Created an Nginx reverse proxy to host custom Streamlit applications and added OAuth 2.0 user authentication.
+- Added regression support and inference optimizations to Bayesian Network based core predictive model.
+- Aided in engineering tasks and completed logistical tasks through Laika for achieving SOC-II compliance.
 <br>
 
-**VP of Consulting** @ Big Data at Berkeley -- *Dec. 2021 to Present*
-- Leading BDAB's Consulting Division that is dedicated to providing business leaders with advanced data analytics and machine learning models to guide critical decisions and accelerate growth.
-- Responsibilities include overseeing all industry consulting projects and guiding project managers to ensure project success, leading the client acquisition effort, organizing consultant recruitment, and creating/teaching workshops.
+**Undergraduate Researcher** @ Berkeley RISE Lab -- *Mar. 2022 to Sep. 2022*
+- Worked on developing a novel concurrency control protocol for long-lasting transactions in large-scale graph
+databases under PhD Student Audrey Cheng and Prof. Ion Stoica.
+- Created Python benchmarking tool for Neo4j to assess performance in 50M+ node graph creations and deletions.
+- Prototyped protocol ideas based on distributed sagas, altruistic locking, and multi-version concurrency control.
 <br>
 
-**Project Manager** @ Big Data at Berkeley -- *May 2021 to Dec. 2021*
-- Project Manager in BDAB's Projects Committee. For the Fall 2021 semester, my team's client will be [Karbon](https://karbonhq.com/). 
-- Led a project to develop predictive models to anticipate customer churn/expansion and engineer custom metrics for customer health indication based on user action data. 
-- Responsibilities include leading a team of consultants, client acquisition, consultant recruitment, and workshop organization.
+**Software Engineering Intern** @ PayPal -- *May 2022 to Aug. 2022*
+- Developed an early warning notification system to alert merchants likely to incur fines under Fraud/Dispute
+Monitoring programs based on recent transaction activity.
+- Created a new Spring Boot microservice to execute asynchronous daily/weekly batch jobs.
+- Developed internal library that provides a flexible API for connecting to BigQuery data warehouse, quickly
+creating parameterized query strings, and running/monitoring synchronous and asynchronous query jobs.
+<br>
+
+**Undergraduate Researcher** @ CAHLR Lab -- *May 2021 to May 2022*
+- Worked in the CAHLR Lab under Prof. Zachary Pardos. Developed a novel convolutional neural network architecture, ideated neural embedding techniques for courses, designed novel evaluation metric for prerequisite prediction performance measurement, and curated custom training dataset to devise a novel deep learning approach to course prerequisite prediction.
 <br>
  
 **Machine Learning Fellow** @ Launchpad.AI -- *May 2021 to Aug. 2021*
@@ -70,7 +83,7 @@ title: Bio
 # University Coursework
 **Computer Science**
 - CS 162 - Operating Systems (Su22)
-- CS 170 - Efficienct Algorithms and Intractable Problems (Sp22)
+- CS 170 - Efficient Algorithms and Intractable Problems (Sp22)
 - CS 188 - Artificial Intelligence (Fa21) 
 - CS 169A - Software Engineering (Fa21)
 - CS 61C - Machine Structures (Fa21)
@@ -91,11 +104,16 @@ title: Bio
 <br>
 
 **Sciences**
+- ASTRON C10 - Introduction to Astronomy (Fa22)
 - PHYSICS 7B - Heat and Electromagnetism (Fa21)
 - PHYSICS 7A - Mechanics and Waves (Sp21)
 <br>
 
 **Breadth**
+- SOCIOL 1 - Introduction to Sociology (Sp23)
+- HISTORY 6B - Introduction to Chinese History (Sp23)
+- EECS 194 - Social Justice in EECS (Sp23)
+- EPS 109 - Computer Simulations with Jupyter Notebooks (Fa22)
 - HISTORY 137AC - Immigrants and Immigration as US History (Sp22)
 - COLWRIT R4B - Reading and Composition Part B: The Machine and its Discontents (Sp22)
 - SOCIOL 167 - Virtual Communities and Social Media (Fa21)
